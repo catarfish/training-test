@@ -1,5 +1,5 @@
 # training-test
-Training repo for NCEAS git/github training
+*Training repo for NCEAS git/github training*
 
 *Not sure what we are doing yet*
 
@@ -12,4 +12,6 @@ Training repo for NCEAS git/github training
 - Owned by Microsoft
 - Collaborative
 
-*Edited by * ***Cat***
+*Edited by Cat*
+
+
