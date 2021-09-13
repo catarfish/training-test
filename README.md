@@ -1,7 +1,5 @@
 # training-test
-*Training repo for NCEAS git/github training*
-
-*Not sure what we are doing yet*
+**Training repo for NCEAS git/github training**
 
 ## Git
 - Software
