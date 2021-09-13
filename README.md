@@ -12,4 +12,4 @@ Training repo for NCEAS git/github training
 - Owned by Microsoft
 - Collaborative
 
-*Edited by **Cat** *
+*Edited by * ***Cat***
